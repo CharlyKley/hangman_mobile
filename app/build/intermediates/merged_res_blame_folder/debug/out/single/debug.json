@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\debug\\drawable_game4.png.flat",
+        "source": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\src\\main\\res\\drawable\\game4.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\debug\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_game.xml.flat",
+        "source": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\src\\main\\res\\layout\\activity_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\debug\\drawable_game5.png.flat",
+        "source": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\src\\main\\res\\drawable\\game5.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\debug\\drawable_game3.png.flat",
+        "source": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\src\\main\\res\\drawable\\game3.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\debug\\drawable_game2.png.flat",
+        "source": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\src\\main\\res\\drawable\\game2.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\debug\\drawable_game6.png.flat",
+        "source": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\src\\main\\res\\drawable\\game6.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\debug\\drawable_game7.png.flat",
+        "source": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\src\\main\\res\\drawable\\game7.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\debug\\drawable_game1.png.flat",
+        "source": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\src\\main\\res\\drawable\\game1.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\debug\\drawable_game0.png.flat",
+        "source": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\src\\main\\res\\drawable\\game0.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    }
+]

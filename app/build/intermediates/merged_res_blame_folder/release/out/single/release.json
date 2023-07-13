@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\drawable_game6.png.flat",
+        "source": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\src\\main\\res\\drawable\\game6.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\drawable_game3.png.flat",
+        "source": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\src\\main\\res\\drawable\\game3.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\drawable_game1.png.flat",
+        "source": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\src\\main\\res\\drawable\\game1.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\drawable_game7.png.flat",
+        "source": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\src\\main\\res\\drawable\\game7.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\drawable_game0.png.flat",
+        "source": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\src\\main\\res\\drawable\\game0.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\drawable_game5.png.flat",
+        "source": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\src\\main\\res\\drawable\\game5.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_game.xml.flat",
+        "source": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\src\\main\\res\\layout\\activity_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\drawable_game4.png.flat",
+        "source": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\src\\main\\res\\drawable\\game4.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\drawable_game2.png.flat",
+        "source": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\src\\main\\res\\drawable\\game2.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\StudioProjects\\Hangman\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    }
+]
